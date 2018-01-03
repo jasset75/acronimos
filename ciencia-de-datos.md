@@ -28,5 +28,5 @@ Elasticsearch es un servidor de búsqueda basado en [Apache Lucene](ciencia-de-d
 
 ### GSA - Google Search Appliance
 - Descripción
-Se trata de una solución informática de tipo propietario, creado por Google y basado en servidores Dell, para comercializarse en empresas como motor de indización de información. Integra la tecnología desarrollada por Google en su propio motor de búsqueda indexada de información de la WWW.
+Se trata de una solución informática de tipo propietario, creado por Google y basado en servidores Dell, para comercializarse en empresas como motor de indización de información. Integra la tecnología desarrollada por Google en su propio [motor de búsqueda](https://es.wikipedia.org/wiki/Buscador_de_Google) indexada de información de la [WWW](tecnologia-de-la-informacion.md#www---world-wide-web).
 > Es un sistema de búsqueda universal que permite a las organizaciones incorporar información procedente de una variedad de fuentes externas e internas (incluyendo sistemas de archivos, intranets, bases de datos, aplicaciones, servicios alojados y sistemas de gestión de contenidos). El software es producido por Google y el hardware, fabricado por Dell Computers y se basa en la Dell PowerEdge R710. ---[Wikipedia, 3 de Enero de 2018](https://es.wikipedia.org/wiki/Google_Search_Appliance)
