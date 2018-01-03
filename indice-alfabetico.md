@@ -31,7 +31,7 @@
 # U
 # V
 # W
-[WWW](tecnologia-de-la-informacion.md#www---world-wide-web)
+* [WWW](tecnologia-de-la-informacion.md#www---world-wide-web)
 # X
 # Y
 # Z
