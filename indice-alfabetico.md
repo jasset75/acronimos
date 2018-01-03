@@ -24,7 +24,7 @@
 # Q
 # R
 * [REST](ingenieria-del-sofware.md#rest)
-* [REST API](ingenieria-del-sofware.md#rest-api)
+* [REST API](ingenieria-del-sofware.md#rest-1)
 # S
 # T
 # U
