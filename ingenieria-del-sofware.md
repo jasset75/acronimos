@@ -1,12 +1,20 @@
 # Ingenería del Sofware
 
+## API
+Del inglés [*Application Programming Interface*](https://en.wikipedia.org/wiki/Application_programming_interface)
+
+## API REST
+
+
+**también denominado RESTful**
+
 ## M2M - *Machine to Machine*
 
-Del inglés [Machine 2 Machine](https://es.wikipedia.org/wiki/M2M)
+Del inglés [*Machine 2 Machine*](https://es.wikipedia.org/wiki/M2M)
 
 ## Pila de Software
 
-Del inglés [Solution Stack](https://en.wikipedia.org/wiki/Solution_stack)
+Del inglés [*Solution Stack*](https://en.wikipedia.org/wiki/Solution_stack)
 
 ## REST 
 
