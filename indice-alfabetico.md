@@ -1,5 +1,8 @@
 # A
 
+* [Apache Solr](ciencia-de-datos.md#apache-solr)
+* [Apache Spark](ciencia-de-datos.md#apache-spark)
+
 # B
 
 # C
@@ -8,7 +11,7 @@
 
 # E
 
-[ES - Elasticsearch](ciencia-de-datos.md#es---elasticsearch)
+* [ES - Elasticsearch](ciencia-de-datos.md#es---elasticsearch)
 
 # F
 
