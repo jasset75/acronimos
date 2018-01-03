@@ -8,7 +8,7 @@
 
 #E
 
-[ES - Elasticsearch](acronimos/ciencia-de-datos.md#es---elasticsearch)
+[ES - Elasticsearch](ciencia-de-datos.md#es---elasticsearch)
 
 #F
 
