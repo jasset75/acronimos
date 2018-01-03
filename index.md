@@ -1,6 +1,6 @@
 # Proyecto Acrónimo
 
-Es simplemente un proyecto para ir recompilando acrónimos sobre temas diversos, y poder enlazarlos desde otros proyectos a modo de documentación.
+Es simplemente un proyecto para ir recompilando **Definiciones y Acrónimos** sobre temas diversos, y poder enlazarlos desde otros proyectos a modo de documentación.
 
 ## Acceso temático
   
