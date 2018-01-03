@@ -1,4 +1,4 @@
-# Ingenería del Sofware
+# Ingenería del Software
 
 ## API
 Del inglés [*Application Programming Interface*](https://en.wikipedia.org/wiki/Application_programming_interface)
