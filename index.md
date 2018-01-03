@@ -2,4 +2,4 @@
 
 Es simplemente un proyecto para ir recompilando acrónimos sobre temas diversos, y poder enlazarlos desde otros proyectos a modo de documentación.
   
-[Ciencia de Datos](ciencia-de-datos.html)
+[Ciencia de Datos](ciencia-de-datos.md)
